@@ -1,0 +1,14 @@
+# Online Retail Sales & Customer Analysis
+# Author: Sneha Vinod Potanavar
+# Requirements and Dependencies
+
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+openpyxl>=3.1.0
+python-docx>=1.1.0
+jupyter>=1.0.0
+nbclient>=0.10.0
+nbformat>=5.9.0
+requests>=2.31.0
